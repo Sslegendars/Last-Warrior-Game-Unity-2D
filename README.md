@@ -8,11 +8,7 @@ This game was developed using Unity version 2022.3.14f1.
 - **Dashing:** Press the `LeftShift` key to make the character dash.
 ### Combat
 - **Basic Attack:** Press the `Space` key to perform the basic melee attack.
-<<<<<<< HEAD
 - **Dash Attack:** Press the `Space` key and `A` or `D` key to perform the dash attack.
-=======
-- **Dash Attack:** Press the `Space` key and 'A' or 'D' key to perform the dash attack.
->>>>>>> 0c58cdf6c4512f192fba2965e103922e0e89d46f
 ### Rewards 
 - **Gold:** Player earn gold by defeating enemies.
 - **Health Packs:** Player Collect health packs to restore health.
